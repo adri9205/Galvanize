@@ -1,0 +1,4 @@
+C:\Users\dcortesst\documents\galvanize\obj\Debug\netcoreapp2.2\galvanize.csprojAssemblyReference.cache
+C:\Users\dcortesst\documents\galvanize\obj\Debug\netcoreapp2.2\galvanize.csproj.CoreCompileInputs.cache
+C:\Users\dcortesst\documents\galvanize\obj\Debug\netcoreapp2.2\galvanize.AssemblyInfoInputs.cache
+C:\Users\dcortesst\documents\galvanize\obj\Debug\netcoreapp2.2\galvanize.AssemblyInfo.cs

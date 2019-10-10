@@ -1,0 +1,13 @@
+C:\Users\dcortesst\documents\galvanize\dotNetExample\bin\Debug\netcoreapp3.0\dotNetExample.exe
+C:\Users\dcortesst\documents\galvanize\dotNetExample\bin\Debug\netcoreapp3.0\dotNetExample.deps.json
+C:\Users\dcortesst\documents\galvanize\dotNetExample\bin\Debug\netcoreapp3.0\dotNetExample.runtimeconfig.json
+C:\Users\dcortesst\documents\galvanize\dotNetExample\bin\Debug\netcoreapp3.0\dotNetExample.runtimeconfig.dev.json
+C:\Users\dcortesst\documents\galvanize\dotNetExample\bin\Debug\netcoreapp3.0\dotNetExample.dll
+C:\Users\dcortesst\documents\galvanize\dotNetExample\bin\Debug\netcoreapp3.0\dotNetExample.pdb
+C:\Users\dcortesst\documents\galvanize\dotNetExample\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\dcortesst\documents\galvanize\dotNetExample\obj\Debug\netcoreapp3.0\dotNetExample.csprojAssemblyReference.cache
+C:\Users\dcortesst\documents\galvanize\dotNetExample\obj\Debug\netcoreapp3.0\dotNetExample.AssemblyInfoInputs.cache
+C:\Users\dcortesst\documents\galvanize\dotNetExample\obj\Debug\netcoreapp3.0\dotNetExample.AssemblyInfo.cs
+C:\Users\dcortesst\documents\galvanize\dotNetExample\obj\Debug\netcoreapp3.0\dotNetExample.csproj.CopyComplete
+C:\Users\dcortesst\documents\galvanize\dotNetExample\obj\Debug\netcoreapp3.0\dotNetExample.dll
+C:\Users\dcortesst\documents\galvanize\dotNetExample\obj\Debug\netcoreapp3.0\dotNetExample.pdb
