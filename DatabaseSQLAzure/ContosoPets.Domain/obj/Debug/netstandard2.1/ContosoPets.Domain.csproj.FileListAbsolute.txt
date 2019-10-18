@@ -1,0 +1,8 @@
+/home/adriana/contoso-pets/src/ContosoPets.Domain/bin/Debug/netstandard2.1/ContosoPets.Domain.deps.json
+/home/adriana/contoso-pets/src/ContosoPets.Domain/bin/Debug/netstandard2.1/ContosoPets.Domain.dll
+/home/adriana/contoso-pets/src/ContosoPets.Domain/bin/Debug/netstandard2.1/ContosoPets.Domain.pdb
+/home/adriana/contoso-pets/src/ContosoPets.Domain/obj/Debug/netstandard2.1/ContosoPets.Domain.csprojAssemblyReference.cache
+/home/adriana/contoso-pets/src/ContosoPets.Domain/obj/Debug/netstandard2.1/ContosoPets.Domain.AssemblyInfoInputs.cache
+/home/adriana/contoso-pets/src/ContosoPets.Domain/obj/Debug/netstandard2.1/ContosoPets.Domain.AssemblyInfo.cs
+/home/adriana/contoso-pets/src/ContosoPets.Domain/obj/Debug/netstandard2.1/ContosoPets.Domain.dll
+/home/adriana/contoso-pets/src/ContosoPets.Domain/obj/Debug/netstandard2.1/ContosoPets.Domain.pdb

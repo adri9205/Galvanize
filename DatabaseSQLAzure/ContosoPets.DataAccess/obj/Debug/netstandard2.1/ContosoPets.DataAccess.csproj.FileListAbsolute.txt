@@ -1,0 +1,11 @@
+/home/adriana/contoso-pets/src/ContosoPets.DataAccess/bin/Debug/netstandard2.1/ContosoPets.DataAccess.deps.json
+/home/adriana/contoso-pets/src/ContosoPets.DataAccess/bin/Debug/netstandard2.1/ContosoPets.DataAccess.dll
+/home/adriana/contoso-pets/src/ContosoPets.DataAccess/bin/Debug/netstandard2.1/ContosoPets.DataAccess.pdb
+/home/adriana/contoso-pets/src/ContosoPets.DataAccess/bin/Debug/netstandard2.1/ContosoPets.Domain.dll
+/home/adriana/contoso-pets/src/ContosoPets.DataAccess/bin/Debug/netstandard2.1/ContosoPets.Domain.pdb
+/home/adriana/contoso-pets/src/ContosoPets.DataAccess/obj/Debug/netstandard2.1/ContosoPets.DataAccess.csprojAssemblyReference.cache
+/home/adriana/contoso-pets/src/ContosoPets.DataAccess/obj/Debug/netstandard2.1/ContosoPets.DataAccess.AssemblyInfoInputs.cache
+/home/adriana/contoso-pets/src/ContosoPets.DataAccess/obj/Debug/netstandard2.1/ContosoPets.DataAccess.AssemblyInfo.cs
+/home/adriana/contoso-pets/src/ContosoPets.DataAccess/obj/Debug/netstandard2.1/ContosoPets.DataAccess.csproj.CopyComplete
+/home/adriana/contoso-pets/src/ContosoPets.DataAccess/obj/Debug/netstandard2.1/ContosoPets.DataAccess.dll
+/home/adriana/contoso-pets/src/ContosoPets.DataAccess/obj/Debug/netstandard2.1/ContosoPets.DataAccess.pdb
